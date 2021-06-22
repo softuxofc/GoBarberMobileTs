@@ -28,9 +28,3 @@ A versão **mobile** é destinado aos clientes das barbearias e está disponíve
 - [x] Utilização do [Flipper](https://fbflipper.com/) para debugar a aplicação;
 - [x] Utilização da biblioteca [react native testing library](https://github.com/callstack/react-native-testing-library) para testes;
 - [ ] Sugestão para aplicar a biblioteca [ImageEditor](https://github.com/react-native-community/react-native-image-editor) para reduzir o tamanho e compactar a imagem de avatar do usuário.
-
-
-
-<div align="center">
-  <small>Rodrigo Gonçalves Santana - 2020</small>
-</div>
